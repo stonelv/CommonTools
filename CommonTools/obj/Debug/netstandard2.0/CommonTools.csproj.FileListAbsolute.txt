@@ -1,0 +1,9 @@
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\bin\Debug\netstandard2.0\CommonTools.deps.json
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\bin\Debug\netstandard2.0\CommonTools.dll
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\bin\Debug\netstandard2.0\CommonTools.pdb
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.csprojAssemblyReference.cache
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.csproj.CoreCompileInputs.cache
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.AssemblyInfoInputs.cache
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.AssemblyInfo.cs
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.dll
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.pdb

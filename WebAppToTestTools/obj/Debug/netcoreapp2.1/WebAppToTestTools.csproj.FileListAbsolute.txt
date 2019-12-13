@@ -1,0 +1,3 @@
+D:\projects\Github\CommonTools\WebAppToTestTools\WebAppToTestTools\obj\Debug\netcoreapp2.1\WebAppToTestTools.csproj.CoreCompileInputs.cache
+D:\projects\Github\CommonTools\WebAppToTestTools\WebAppToTestTools\obj\Debug\netcoreapp2.1\WebAppToTestTools.AssemblyInfoInputs.cache
+D:\projects\Github\CommonTools\WebAppToTestTools\WebAppToTestTools\obj\Debug\netcoreapp2.1\WebAppToTestTools.AssemblyInfo.cs

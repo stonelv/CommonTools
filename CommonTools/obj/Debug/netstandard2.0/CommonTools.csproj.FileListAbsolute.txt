@@ -7,3 +7,6 @@ D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstanda
 D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.AssemblyInfo.cs
 D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.dll
 D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.pdb
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\projects\Github\CommonTools\WebAppToTestTools\CommonTools\obj\Debug\netstandard2.0\CommonTools.csproj.CopyComplete
